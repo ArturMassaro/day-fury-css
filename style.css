@@ -406,53 +406,6 @@ body, html {
 	box-shadow:-5px 25px 0 #F1F1F1;
 }
 
-.day-fury .head-wrap .head .spots{
-	top:-10px;
-	left:50%;
-	width:130px;
-	height:80px;
-	margin-left:-80px;
-}
-.day-fury .head-wrap .head .spots:before,
-.day-fury .head-wrap .head .spots:after{
-	width:8px;
-	height:5px;
-	border-radius:50%;
-	background:#F1F1F1;
-}
-.day-fury .head-wrap .head .spots:before{top:30px;right:30px}
-.day-fury .head-wrap .head .spots:after{bottom:0;right:0}
-.day-fury .head .spots .spot-dtl{
-	top:40px;
-	left:15px;
-	width:40px;
-	height:20px;
-	border-radius:50%;
-	background:#F1F1F1;
-	position:absolute;
-}
-.day-fury .head-wrap .head .spots .spot-dtl.scale{
-	top:50px;
-	left:80px;
-	transform:scale(.6);
-}
-.day-fury .head-wrap .head .spots .spot-dtl:before,
-.day-fury .head-wrap .head .spots .spot-dtl:after{
-	background:inherit;
-	border-radius:inherit;
-}
-.day-fury .head-wrap .head .spots .spot-dtl:before{
-	width:20px;
-	height:10px;
-	top:-20px;
-	left:40px;
-}
-.day-fury .head-wrap .head .spots .spot-dtl:after{
-	top:40px;
-	left:10px;
-	width:15px;
-	height:8px;
-}
 
 
 
